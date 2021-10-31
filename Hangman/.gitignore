@@ -1,22 +1,9 @@
 
 # Byte-compiled / optimized / DLL files
-**/__pycache__/
+__pycache__
 *.pyc
 *.py[cod]
 *$py.class
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
-
-# Local History for Visual Studio Code
-.history/
-
-### VisualStudioCode Patch ###
-# Ignore all local history of files
-.history
-.ionide
+.vscode/
